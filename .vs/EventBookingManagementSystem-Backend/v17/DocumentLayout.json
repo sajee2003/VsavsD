@@ -102,8 +102,7 @@
               "RelativeToolTip": "DTOs\\RequestModels\\ItemCategoryRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:01:26.266Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:01:26.266Z"
             },
             {
               "$type": "Document",
@@ -115,8 +114,7 @@
               "RelativeToolTip": "DTOs\\RequestModels\\SampleRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T15:01:23.736Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T15:01:23.736Z"
             },
             {
               "$type": "Document",
@@ -126,7 +124,7 @@
               "RelativeDocumentMoniker": "Repositories\\Implementations\\SampleRepository.cs",
               "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\SampleRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\SampleRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T15:01:12.341Z",
               "EditorCaption": ""
@@ -153,8 +151,7 @@
               "RelativeToolTip": "Repositories\\Implementations\\ItemCategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:27:55.918Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T10:27:55.918Z"
             },
             {
               "$type": "Document",
@@ -298,8 +295,7 @@
               "RelativeToolTip": "DB\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:25:08.482Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T09:25:08.482Z"
             },
             {
               "$type": "Document",
@@ -323,8 +319,7 @@
               "RelativeToolTip": "Repositories\\Implementations\\ItemRepository.cs",
               "ViewState": "AgIAABcAAAAAAAAAAADgvxoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:24:37.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T09:24:37.839Z"
             },
             {
               "$type": "Document",
@@ -336,8 +331,7 @@
               "RelativeToolTip": "DTOs\\RequestModels\\ItemRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:21:55.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-24T09:21:55.604Z"
             }
           ]
         }
