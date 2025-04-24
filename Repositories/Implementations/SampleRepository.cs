@@ -2,6 +2,9 @@
 {
     public class SampleRepository
     {
-        //publicj hg 
+
+
+        public SampleRepository() { }
+
     }
 }
