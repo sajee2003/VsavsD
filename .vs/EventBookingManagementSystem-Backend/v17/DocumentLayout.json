@@ -1,73 +1,85 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\",
+  "WorkspaceRootPath": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\repositories\\implementations\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\repositories\\implementations\\samplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\implementations\\samplerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\repositories\\implementations\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\implementations\\itemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\db\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:db\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\db\\entities\\item_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:db\\entities\\item_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\repositories\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\services\\implementations\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\implementations\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\services\\implementations\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\implementations\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\repositories\\implementations\\itemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\implementations\\itemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\controllers\\itemcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:controllers\\itemcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\dtos\\requestmodels\\itemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\dtos\\requestmodels\\itemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:dtos\\requestmodels\\itemrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\services\\implementations\\itemcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\implementations\\itemcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\dtos\\requestmodels\\itemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:dtos\\requestmodels\\itemcategoryrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\repositories\\interfaces\\iitemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\interfaces\\iitemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\services\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:db\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\migrations\\20250424103841_dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\dtos\\requestmodels\\samplerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:dtos\\requestmodels\\samplerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\repositories\\implementations\\itemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\implementations\\itemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\db\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:db\\entities\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\db\\entities\\item_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:db\\entities\\item_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\repositories\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\interfaces\\iitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\services\\implementations\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\implementations\\itemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\services\\implementations\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\implementations\\sampleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\controllers\\itemcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:controllers\\itemcategorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:controllers\\itemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\services\\implementations\\itemcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\implementations\\itemcategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\repositories\\interfaces\\iitemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:repositories\\interfaces\\iitemcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\services\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:services\\interfaces\\iitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\migrations\\20250424103841_dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:migrations\\20250424103841_dfs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (13)\\event-booking-management-system-backend\\migrations\\20250424101443_sb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|c:\\users\\kanes\\onedrive\\desktop\\new folder (14)\\new folder (13)\\event-booking-management-system-backend\\migrations\\20250424101443_sb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F9E0D8D5-57B9-4C30-992B-99BA7C2D9D90}|EventBookingManagementSystem-Backend.csproj|solutionrelative:migrations\\20250424101443_sb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -78,15 +90,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 15,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
+              "Title": "ItemCategoryRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\ItemCategoryRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestModels\\ItemCategoryRequest.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\ItemCategoryRequest.cs",
+              "RelativeToolTip": "DTOs\\RequestModels\\ItemCategoryRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:01:26.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SampleRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\SampleRequest.cs",
+              "RelativeDocumentMoniker": "DTOs\\RequestModels\\SampleRequest.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\SampleRequest.cs",
+              "RelativeToolTip": "DTOs\\RequestModels\\SampleRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:01:23.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SampleRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\SampleRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\Implementations\\SampleRepository.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\SampleRepository.cs",
+              "RelativeToolTip": "Repositories\\Implementations\\SampleRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T15:01:12.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "20250424103841_dfs.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424103841_dfs.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424103841_dfs.cs",
               "RelativeDocumentMoniker": "Migrations\\20250424103841_dfs.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424103841_dfs.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424103841_dfs.cs",
               "RelativeToolTip": "Migrations\\20250424103841_dfs.cs",
               "ViewState": "AgIAACIAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -94,23 +145,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "ItemCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemCategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\ItemCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemCategoryRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\ItemCategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:27:55.918Z"
+              "WhenOpened": "2025-04-24T10:27:55.918Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 16,
               "Title": "IItemCategoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemCategoryRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IItemCategoryRepository.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemCategoryRepository.cs",
               "RelativeToolTip": "Repositories\\Interfaces\\IItemCategoryRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -118,11 +170,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 13,
               "Title": "ItemCategoryController.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemCategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemCategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemCategoryController.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemCategoryController.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemCategoryController.cs",
               "RelativeToolTip": "Controllers\\ItemCategoryController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -130,11 +182,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 8,
               "Title": "Item.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item.cs",
               "RelativeDocumentMoniker": "DB\\Entities\\Item.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item.cs",
               "RelativeToolTip": "DB\\Entities\\Item.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -142,11 +194,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "Item_Category.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item_Category.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item_Category.cs",
               "RelativeDocumentMoniker": "DB\\Entities\\Item_Category.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item_Category.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\Entities\\Item_Category.cs",
               "RelativeToolTip": "DB\\Entities\\Item_Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -154,11 +206,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "20250424101443_sb.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424101443_sb.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424101443_sb.cs",
               "RelativeDocumentMoniker": "Migrations\\20250424101443_sb.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424101443_sb.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Migrations\\20250424101443_sb.cs",
               "RelativeToolTip": "Migrations\\20250424101443_sb.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -166,11 +218,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Program.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -178,11 +230,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 14,
               "Title": "ItemController.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemController.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemController.cs",
               "RelativeDocumentMoniker": "Controllers\\ItemController.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemController.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Controllers\\ItemController.cs",
               "RelativeToolTip": "Controllers\\ItemController.cs",
               "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -190,11 +242,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 17,
               "Title": "IItemService.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Interfaces\\IItemService.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Interfaces\\IItemService.cs",
               "RelativeDocumentMoniker": "Services\\Interfaces\\IItemService.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Interfaces\\IItemService.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Interfaces\\IItemService.cs",
               "RelativeToolTip": "Services\\Interfaces\\IItemService.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -202,11 +254,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "ItemService.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemService.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\ItemService.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemService.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemService.cs",
               "RelativeToolTip": "Services\\Implementations\\ItemService.cs",
               "ViewState": "AgIAAD8AAAAAAAAAAAAcwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -214,11 +266,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 12,
               "Title": "SampleService.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\SampleService.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\SampleService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\SampleService.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\SampleService.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\SampleService.cs",
               "RelativeToolTip": "Services\\Implementations\\SampleService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -226,11 +278,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "ItemCategoryService.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemCategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemCategoryService.cs",
               "RelativeDocumentMoniker": "Services\\Implementations\\ItemCategoryService.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemCategoryService.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Services\\Implementations\\ItemCategoryService.cs",
               "RelativeToolTip": "Services\\Implementations\\ItemCategoryService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -238,23 +290,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "DB\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DB\\ApplicationDbContext.cs",
               "RelativeToolTip": "DB\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:25:08.482Z"
+              "WhenOpened": "2025-04-24T09:25:08.482Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 10,
               "Title": "IItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Interfaces\\IItemRepository.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemRepository.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Interfaces\\IItemRepository.cs",
               "RelativeToolTip": "Repositories\\Interfaces\\IItemRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -262,28 +315,29 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemRepository.cs",
               "RelativeDocumentMoniker": "Repositories\\Implementations\\ItemRepository.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemRepository.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\Repositories\\Implementations\\ItemRepository.cs",
               "RelativeToolTip": "Repositories\\Implementations\\ItemRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAASwBoAAAAkAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAADgvxoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T09:24:37.839Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 2,
               "Title": "ItemRequest.cs",
-              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\ItemRequest.cs",
+              "DocumentMoniker": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\ItemRequest.cs",
               "RelativeDocumentMoniker": "DTOs\\RequestModels\\ItemRequest.cs",
-              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\ItemRequest.cs",
+              "ToolTip": "C:\\Users\\kanes\\OneDrive\\Desktop\\New folder (14)\\New folder (13)\\Event-Booking-Management-System-Backend\\DTOs\\RequestModels\\ItemRequest.cs",
               "RelativeToolTip": "DTOs\\RequestModels\\ItemRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:21:55.604Z"
+              "WhenOpened": "2025-04-24T09:21:55.604Z",
+              "EditorCaption": ""
             }
           ]
         }
