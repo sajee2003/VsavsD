@@ -2,5 +2,9 @@
 {
     public class SampleRepository
     {
+
+        //gfbbbbbbbbbbbbbbbbbbbbbbbbb
+
+        public SampleRepository() { }
     }
 }
